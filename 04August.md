@@ -5,6 +5,7 @@
 <p>today's work</p>
 <ol>
   <li>Tested the Flow card And PLanterApp.</li>
-  <li>Known the Basics things that what I have to Do Actually. </li>
+  <li>Known the Basics things that what I have to Do Actually in the FLowCard App </li>
   <li>Started The Work on Maps And have to Add some components in it</li>
+
 </ol>
