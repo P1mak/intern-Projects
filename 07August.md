@@ -10,7 +10,5 @@
   <li>  4 Components As FAQs,How to guide, Chat Support, Raise a ticket.</li>
  <li>   below this Whatever the conversation as been done that will be in Rescent Conversation box</li>
   <li>  in footer The messege send box </li>
-  <li>Known the Basics things that what I have to Do Actually in the FLowCard App </li>
-  <li>Started The Work on Maps And have to Add some components in it</li>
-
+  
 </ol>
